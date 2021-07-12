@@ -10,3 +10,4 @@ yarn add express
 ## TODO
 
 - Créer un access-log file
+- Getting started
