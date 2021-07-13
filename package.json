@@ -5,6 +5,8 @@
   "author": "RaphaelHardFork <raphael.pellet@protonmail.com>",
   "license": "MIT",
   "dependencies": {
+    "cors": "^2.8.5",
+    "ethers": "^5.4.1",
     "express": "^4.17.1"
   }
 }

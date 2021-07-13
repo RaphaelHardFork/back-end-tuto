@@ -1,0 +1,14 @@
+Tue, 13 Jul 2021 08:17:01 GMT / GET
+"/hello/raphael" from 127.0.0.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+Tue, 13 Jul 2021 08:17:43 GMT / GET
+"/hello/franck" from 127.0.0.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+Tue, 13 Jul 2021 08:24:40 GMT / GET
+"/balance/fdfd" from 127.0.0.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+Tue, 13 Jul 2021 08:25:19 GMT / GET
+"/balance/0xCB9b3f5d61Ef758B40543daE41e9d641396520b0" from 127.0.0.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+Tue, 13 Jul 2021 08:26:03 GMT / GET
+"/balance/0xCB9b3f5d61Ef758B40543daE41e9d641396520b0" from 127.0.0.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+Tue, 13 Jul 2021 08:28:12 GMT / GET
+"/balance/0xCB9b3f5d61Ef758B40543daE41e9d641396520b0" from 127.0.0.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+Tue, 13 Jul 2021 08:28:48 GMT / GET
+"/balance/0xCB9b3f5d61Ef758B40543daE41e9d641396520b0" from 127.0.0.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
